@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "",
+      "address": "Software Engineer",
+      "gender": "Development"
+    },
+    {
+      "id": "rrr",
+      "name": "BRIAN KIPTOO",
+      "password": "dddfdf",
+      "email": "brtrgrfg@gmail.com",
+      "phone": "0702546834",
+      "country": "",
+      "address": "Kapyego Kenya\n222",
+      "gender": "male"
+    }
+  ]
+}
