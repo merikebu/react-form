@@ -11,64 +11,34 @@
       "gender": "Development"
     },
     {
-      "id": "rrr",
+      "id": "brian",
       "name": "BRIAN KIPTOO",
-      "password": "dddfdf",
-      "email": "brtrgrfg@gmail.com",
+      "password": "1234",
+      "email": "rrr@gmail.com",
       "phone": "0702546834",
       "country": "",
       "address": "Kapyego Kenya\n222",
       "gender": "male"
     },
     {
-      "id": "wwwwfvv",
+      "id": "yobo",
       "name": "BRIAN KIPTOO",
-      "password": "dvccvcvc",
-      "email": "dfdfdv@gmail.com",
+      "password": "11",
+      "email": "",
       "phone": "0702546834",
       "country": "",
       "address": "Kapyego Kenya\n222",
       "gender": "male"
     },
     {
-      "id": "erdfdf",
+      "id": "qq",
       "name": "BRIAN KIPTOO",
-      "password": "ccdf",
-      "email": "dddd@gmail.com",
+      "password": "22",
+      "email": "ffff@gmail.com",
       "phone": "0702546834",
-      "country": "",
+      "country": "uganda",
       "address": "Kapyego Kenya\n222",
-      "gender": ""
-    },
-    {
-      "id": "",
-      "name": "",
-      "password": "",
-      "email": "",
-      "phone": "",
-      "country": "",
-      "address": "",
-      "gender": ""
-    },
-    {
-      "id": "jj",
-      "name": "",
-      "password": "",
-      "email": "",
-      "phone": "",
-      "country": "",
-      "address": "",
-      "gender": ""
-    },
-    {
-      "id": "",
-      "name": "",
-      "password": "f",
-      "email": "",
-      "phone": "",
-      "country": "",
-      "address": "",
-      "gender": ""
+      "gender": "female"
     }
   ]
 }

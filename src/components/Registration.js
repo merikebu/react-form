@@ -12,7 +12,7 @@ const Registration = () => {
   const [country, setCountry] = useState("");
   const [address, setAddress] = useState("");
   const [gender, setGender] = useState("");
-  const isValidate = () => {
+  const IsValidate = () => {
     let isproceed = true;
     let errormessage = "please enter value in";
     if (id === null || id === "") {
