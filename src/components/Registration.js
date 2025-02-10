@@ -38,7 +38,7 @@ const Registration = () => {
     return isproceed;
   };
   const handleSubmit = (e) => {
-    if (isValidate()) {
+    
       e.preventDefault();
 
       let regob = {
@@ -64,7 +64,7 @@ const Registration = () => {
         .catch((err) => {
           toast.error("failed :" + err.message);
         });
-    }
+    
   };
   return (
     <div className="offset-lg-3 col-lg-6">
@@ -95,7 +95,7 @@ const Registration = () => {
                   </label>
                   <input
                     type="password"
-                    value={password}
+                    required value={password}
                     onChange={(e) => setPassword(e.target.value)}
                     className="form-control"
                   ></input>
